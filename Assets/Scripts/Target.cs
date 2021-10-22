@@ -20,7 +20,5 @@ public class Target : MonoBehaviour
     }
 
     
-    public virtual void Process(RaycastHit hit)
-    {
-    }
+    public virtual void Process(RaycastHit hit){}
 }
